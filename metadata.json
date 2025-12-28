@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of AI Calorie Master",
+  "description": "An intelligent calorie tracking and conversion app that uses Gemini AI to estimate nutritional values from text descriptions or food photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
